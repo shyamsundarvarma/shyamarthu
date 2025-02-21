@@ -1,4 +1,4 @@
-shyam added line 1
-shyam added line 2
-shyam added line 3
-shyam added line 4
+shyam added line 1 in main
+shyam added line 2 in slave
+shyam added line 3 in slave
+shyam added line 4 in slave
